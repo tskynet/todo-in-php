@@ -1,0 +1,7 @@
+.container{width:80%;margin-left:auto;margin-right:auto;background:red;padding-left:10px;padding-right:10px}
+.container .todo{background:blue;padding-top:20px;padding-bottom:20px}
+.container .todo h1{text-align:center}
+.container .todo ul{padding-left:20px;padding-right:20px}
+.container .todo ul li{margin-bottom:10px;background:orange;padding:5px;list-style:none;}
+.container .todo ul li .inputAdd{display:inline-block;width:79%;}
+.container .todo ul li .buttonAdd{display:inline-block;width:20%;}
